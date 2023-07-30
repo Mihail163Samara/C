@@ -1,0 +1,15 @@
+C:\Examples\Exampie001_HelloConsole\bin\Debug\net7.0\Exampie001_HelloConsole.exe
+C:\Examples\Exampie001_HelloConsole\bin\Debug\net7.0\Exampie001_HelloConsole.deps.json
+C:\Examples\Exampie001_HelloConsole\bin\Debug\net7.0\Exampie001_HelloConsole.runtimeconfig.json
+C:\Examples\Exampie001_HelloConsole\bin\Debug\net7.0\Exampie001_HelloConsole.dll
+C:\Examples\Exampie001_HelloConsole\bin\Debug\net7.0\Exampie001_HelloConsole.pdb
+C:\Examples\Exampie001_HelloConsole\obj\Debug\net7.0\Exampie001_HelloConsole.csproj.AssemblyReference.cache
+C:\Examples\Exampie001_HelloConsole\obj\Debug\net7.0\Exampie001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\Exampie001_HelloConsole\obj\Debug\net7.0\Exampie001_HelloConsole.AssemblyInfoInputs.cache
+C:\Examples\Exampie001_HelloConsole\obj\Debug\net7.0\Exampie001_HelloConsole.AssemblyInfo.cs
+C:\Examples\Exampie001_HelloConsole\obj\Debug\net7.0\Exampie001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Examples\Exampie001_HelloConsole\obj\Debug\net7.0\Exampie001_HelloConsole.dll
+C:\Examples\Exampie001_HelloConsole\obj\Debug\net7.0\refint\Exampie001_HelloConsole.dll
+C:\Examples\Exampie001_HelloConsole\obj\Debug\net7.0\Exampie001_HelloConsole.pdb
+C:\Examples\Exampie001_HelloConsole\obj\Debug\net7.0\Exampie001_HelloConsole.genruntimeconfig.cache
+C:\Examples\Exampie001_HelloConsole\obj\Debug\net7.0\ref\Exampie001_HelloConsole.dll
